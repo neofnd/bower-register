@@ -1,0 +1,20 @@
+{
+  "name": "bower-register",
+  "homepage": "https://github.com/neofnd/bower-register",
+  "authors": [
+    "neO <locksmithsneo@gmail.com>"
+  ],
+  "description": "바우어에 패키지를 등록하기 위한 저장소",
+  "main": "",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
